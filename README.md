@@ -75,15 +75,15 @@ $ git commit -m "comment"
 ```
 $ git push
 ```
- **14. На веб интерфейсе создать файл [bug_report.txt](https://github.com/KristinaMarkevich/XML/blob/main/bug_report.xml)**
+ **14. На веб интерфейсе создать файл [bug_report.xml](https://github.com/KristinaMarkevich/XML/blob/main/bug_report.xml)**
  
  **15. Сделать Commit changes (сохранить) изменения на веб интерфейсе**
  
- **16. На веб интерфейсе модифицировать файл [bug_report.txt](https://github.com/KristinaMarkevich/XML/blob/main/bug_report.xml), добавить баг репорт в формате TXT**
+ **16. На веб интерфейсе модифицировать файл [bug_report.xml](https://github.com/KristinaMarkevich/XML/blob/main/bug_report.xml), добавить баг репорт в формате XML**
  
  **17. Сделать Commit changes (сохранить) изменения на веб интерфейсе**
  
- **18. Синхронизировать внешний и локальный репозиторий TXT**
+ **18. Синхронизировать внешний и локальный репозиторий XML**
  ```
 $ git pull
 ```
