@@ -68,7 +68,7 @@ $ cat > skills.xml
 ```
 **12. Сделать коммит в одну строку**
 ```
-$ git add . && git commit -m "comment"
+$ git commit -a -m "add preferences.xml and skills.xml "
 
 ```
 **13. Отправить сразу 2 файла на внешний репозиторий**
