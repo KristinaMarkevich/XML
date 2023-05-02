@@ -53,7 +53,7 @@ $ cat > preferences.xml
 <TV_Show>Breaking bad</TV_Show>
 <food>ramen</food>
 <season>summer</season>
-<country_i'd_like_to_visit> Japan </country i'd like to visit>
+<country_id_like_to_visit> Japan </country_id_like_to_visit>
 </prefereces> 
 ```
 **11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML**
