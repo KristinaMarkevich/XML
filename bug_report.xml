@@ -4,7 +4,7 @@
 <Priority>Low</Priority>
 <Status>Open</Status>
 <Title>Не переведены на украинский язык тексты ошибок на форме “Зворотний зв’язок” на странице https://itawards.ua/ua в UA версии сайта</Title>
-<Author>Kristina Markevich<Author>
+<Author>Kristina Markevich</Author>
 <Environment>Google Chrome, Windows 8.1</Environment>
  <Steps> 1.Открыть страницу https://itawards.ua/ua
          2.Проскролить к форме “Зворотний зв’язок”
