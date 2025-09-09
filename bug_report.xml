@@ -1,1 +1,11 @@
-
+<bug_report>
+  <id>1</id>
+  <title>Button Log In is not clickable on the main page</title>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Steps to Reproduce>1. Open site.com 2. Click the button Log in on the main page</Steps to Reproduce>
+  <Expected Result>Login Page is opened in the new page</Expected Result>
+  <Actual Result>Login page is not opened in the new page</Actual Result>
+  <Environment>Windows 10 x64, Google Chrome 184.1551</Environment>
+  <Attachment>Video</Attachment>
+</bug_report>
